@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_view">Hello world !</string>
+    <string name="desc0">    A spunky, chubby teenager with gelled hair shot to fame after
+
+        leading India to glory in the Under-19 World
+
+        Cup at Kuala Lumpur in early 2008. In an Indian team filled with saint-like
+
+        icons worthy of their own hagiographies, Virat Kohli,
+
+        with his most un-Indian, bad-boy intensity, would clearly be an outcast.</string>
+    <string name="phone0">+212 617908756</string>
+
+    <string name="desc1">Languid and easy on the eye, Rohit Sharma owned all the
+
+        shots in the book when he emerged from the Mumbai
+
+        suburbs as heir apparent to the Indian batting greats of the 2000s. It took him time and persistence,
+
+        but by the 2010s he had become a colossus in white-ball cricket, and the man in charge of perhaps the most
+
+        formidable league team in the first age of T20.</string>
+    <string name="phone1">+212 699346301</string>
+
+
+
+</resources>
